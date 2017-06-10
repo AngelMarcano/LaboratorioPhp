@@ -1,4 +1,5 @@
 <?php
+
 namespace Acme\users;
 //Las personas están unidas al staff
 class Person{
